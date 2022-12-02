@@ -1,4 +1,8 @@
 *.pt
+*.txt
+*.png
+*.jpeg
+*.jpg
 site*/
 fedavg*/
 *workspace*/
