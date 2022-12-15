@@ -7,3 +7,5 @@ site*/
 fedavg*/
 *workspace*/
 
+*.out
+
