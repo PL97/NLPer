@@ -6,6 +6,7 @@
 site*/
 fedavg*/
 *workspace*/
+data/
 
 *.out
 
