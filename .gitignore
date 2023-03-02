@@ -3,6 +3,8 @@
 *.png
 *.jpeg
 *.jpg
+*.csv
+*.pyc
 site*/
 fedavg*/
 *workspace*/
