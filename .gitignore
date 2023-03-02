@@ -6,6 +6,9 @@
 *.csv
 *.pyc
 *.corp
+*.out
+
+
 site*/
 fedavg*/
 *workspace*/
@@ -13,4 +16,3 @@ data/
 data_pre/
 pretrained_models/
 
-*.out
