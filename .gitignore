@@ -5,6 +5,7 @@
 *.jpg
 *.csv
 *.pyc
+*.corp
 site*/
 fedavg*/
 *workspace*/
